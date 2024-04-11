@@ -1,0 +1,22 @@
+{
+  "name": "Purple Unicorn Party",
+  "version": "1.0.0",
+  "description": "Purple Unicorn Party",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonwex/purpleunicorn.party.git"
+  },
+  "author": "Simon Wex <simon@simonwex.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonwex/purpleunicorn.party/issues"
+  },
+  "homepage": "https://purpleunicorn.party",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
